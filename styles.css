@@ -1,0 +1,21 @@
+*{
+    font-family: Consolas, monaco, monospace;
+}
+my-app > div {
+    display: block;
+    width: 95%;
+    background-color: #EDF0F5;
+}
+angular2-def > div{
+    display: block;
+    width: 95%;
+}
+div{
+    border: 1px #BBBBBC solid;
+    border-radius: 5px;
+    width: 350px;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+    background-color: #EDF0F5;
+}
